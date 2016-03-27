@@ -1,0 +1,10 @@
+Package: TNG
+Title: Dataset About TNG Star Trek
+Version: 0.0.0.9000
+Authors@R: person("Roel", "Hogervorst", email = "hogervorst.rm@gmail.com", role = c("aut", "cre"))
+Description: A lot of work.
+Depends:
+    R (>= 3.2.4)
+License: MIT + file LICENSE
+LazyData: true
+RoxygenNote: 5.0.1
