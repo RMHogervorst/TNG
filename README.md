@@ -9,7 +9,7 @@ I'm a very nerdy person. I made a TNG dataset.
 Short intro
 ===========
 
-This repo contains the raw files, moviescripts from the sci-fi series Star Trek The Next Generation, R scripts to transform them and a dataset.
+This repo a dataset of the sci-fi series Star Trek The Next Generation.
 
 The dataset has 17 variables/columns and 110176 rows. variable names are here:
 
@@ -58,10 +58,6 @@ And discovered that the scripts (mostly...) follow a convention of
 I have used the packages dplyr and readr.
 
 ### Licence
-
-My code is under MIT licence
-
-I don't know what licence the moviescripts have so I will not include them. but if you download them and put them in a folder called data-raw it will work.
 
 My dataset is CC0 PUBLIC domain.
 
