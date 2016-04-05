@@ -1,0 +1,14 @@
+---
+title: "Examples TNG dataset"
+author: "Roel M. Hogervorst"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Examples TNG dataset}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+A file is nothing without some use cases. 
+What can we learn from this enormous datafile?
+

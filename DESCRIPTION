@@ -2,7 +2,13 @@ Package: TNG
 Title: Dataset About TNG Star Trek
 Version: 0.0.0.9000
 Authors@R: person("Roel", "Hogervorst", email = "hogervorst.rm@gmail.com", role = c("aut", "cre"))
-Description: A lot of work.
+Description: Did you always want to know how many times Captain Jean Luc
+        Picard says: "Tea, Earl Grey, hot" ? Do you want to extract all the
+        text that Geordi Laforge uses in the series? This is the ultimate solution.
+        This is the ultimate The Next Generation dataset, with all the descriptions
+        from the script, all the text spoken and includes names of the scenes, acts,
+        and for your modeling pleasure, I have included IMDB ratings and ID's for
+        every episode.
 Depends:
     R (>= 3.2.4)
 License: MIT + file LICENSE
