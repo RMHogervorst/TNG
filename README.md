@@ -3,6 +3,14 @@ Star Trek The Next Generation Dataset
 
 This README contains info about how to access the file, [disclaimer](#disclaimer), some use [cases](#usecases).
 
+I'VE MOVED ALL STAR TREK RELATED STUFF TO A NEW GITHUB ORGANIZATION: [RTREK](https://github.com/rtrek)
+
+- STAR TREK TNG [COMPLETE DATASET ](https://github.com/RTrek/startrekTNGdataset)
+- STARTREK PACKAGE [WHERE YOU CAN TALK LIKE THE CHARACTERS](https://github.com/RTrek/startrekpackage)
+- MORE ABOUT [THE DATASET](https://github.com/RTrek/TNG)
+
+
+
 TLDR
 ====
 
